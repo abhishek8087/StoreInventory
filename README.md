@@ -1,6 +1,8 @@
 # StoreInventory
 Access and query the inventory catalog
 
+Run the application by running StoreInventoryApplication.java
+
 
 
 Important!  --> Please hit http://localhost:9090/catalog/setup after starting the application. This will load the data that can be used for below APIs
